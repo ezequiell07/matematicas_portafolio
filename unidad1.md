@@ -21,3 +21,21 @@
 ### ✅ Tablas de Verdad
 * Construcción de una Tabla de verdad 📝
 *  Clasificación de argumentos: tautología, contradicción y contingencia ⚖️
+
+<hr>
+
+# 📑 Tareas Entregadas
+
+## 💻 APE 1: Resolución de Ejercicios
+- [x] 📎 [Ver Evidencia]
+
+## 🎓 ACD 1: Lógica Proposicional, Conectores y Tablas de Verdad
+- [x] 📎 [Ver Evidencia]
+
+## 🎓 ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)
+- [x] 📎 [Ver Evidencia]
+
+## ✍️ AA 1: LECTURA Y EJERCICIOS
+- [x] 📎 [Ver Evidencia]
+## ✍️ AA 2: Portafolio de Matemáticas Discretas
+- [x] 📎 [Ver Evidencia]
