@@ -1,1 +1,23 @@
+<img src="https://inscripciones.unl.edu.ec/images/logo_unl.png" alt="Logo UNL" width="400" height="130" style="display: block; margin: 0 auto;"/>
 
+---
+
+# 📘 Unidad 1: Lógica
+## Contenidos de la Unidad ⬇️
+
+### 📚 Definiciones Básicas
+* Conceptos Básicos 💡
+* Terminología Básica 🏷️
+### 🧠 Lógica
+* Introducción a la Lógica 🧐
+* Tipos Proposiciones 💬
+### 🧮 Proposiciones Y Operadores Lógicos
+* Clasificación de las Proposiciones 🧩
+* Operadores Lógicos $\land, \lor, \neg$
+
+### ➡️ Proposiciones Condicionales
+* Condicional o implicación  $\rightarrow$
+* Bicondicional o equivalencia $\leftrightarrow$
+### ✅ Tablas de Verdad
+* Construcción de una Tabla de verdad 📝
+*  Clasificación de argumentos: tautología, contradicción y contingencia ⚖️
