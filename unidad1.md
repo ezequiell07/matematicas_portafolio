@@ -35,7 +35,7 @@
 ## 🎓 ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)
 - [x] 📎 [Ver Evidencia](a/ACD2.pdf)
 
-## ✍️ AA 1: LECTURA Y EJERCICIOS
+## ✍️ AA 1: Lectura y Ejercicios
 - [x] 📎 [Ver Evidencia](a/AA1.pdf)
 ## ✍️ AA 2: Portafolio de Matemáticas Discretas
 - [x] 📎 [Ver Evidencia]
