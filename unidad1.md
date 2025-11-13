@@ -27,16 +27,16 @@
 # 📑 Tareas Entregadas
 
 ## 💻 APE 1: Resolución de Ejercicios
-- [x] 📎 [Ver Evidencia](
+- [x] 📎 [Ver Evidencia]
 
 ## 🎓 ACD 1: Lógica Proposicional, Conectores y Tablas de Verdad
 - [x] 📎 [Ver Evidencia](a/ACD1.pdf)
 
 ## 🎓 ACD 2: implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia)
-- [x] 📎 [Ver Evidencia]
+- [x] 📎 [Ver Evidencia](a/ACD2.pdf)
 
 ## ✍️ AA 1: LECTURA Y EJERCICIOS
-- [x] 📎 [Ver Evidencia]
+- [x] 📎 [Ver Evidencia](a/AA1.pdf)
 ## ✍️ AA 2: Portafolio de Matemáticas Discretas
 - [x] 📎 [Ver Evidencia]
 
