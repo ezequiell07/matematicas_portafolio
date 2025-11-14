@@ -41,7 +41,7 @@
 - [x] 📎 [Ver Evidencia](a/AA2.pdf)
 
 ## 📄 Recuperación Examen 0 (Sólo estudiantes de Nota = 0 )
-- [x] 📎 [Ver Evidencia](Recuperacion_EmersonChamba.pdf)
+- [x] 📎 [Ver Evidencia](a/Recuperacion.pdf)
 
       
 <div align="center">
