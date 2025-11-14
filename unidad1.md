@@ -27,7 +27,7 @@
 # 📑 Tareas Entregadas
 
 ## 💻 APE 1: Resolución de Ejercicios
-- [x] 📎 [Ver Evidencia]
+- [x] 📎 [Ver Evidencia](a/APE1.pdf)
 
 ## 🎓 ACD 1: Lógica Proposicional, Conectores y Tablas de Verdad
 - [x] 📎 [Ver Evidencia](a/ACD1.pdf)
