@@ -38,7 +38,10 @@
 ## ✍️ AA 1: Lectura y Ejercicios
 - [x] 📎 [Ver Evidencia](a/AA1.pdf)
 ## ✍️ AA 2: Portafolio de Matemáticas Discretas
-- [x] 📎 [Ver Evidencia]
+- [x] 📎 [Ver Evidencia](a/AA2.pdf)
+
+## 📄 Recuperación Examen 0 (Sólo estudiantes de Nota = 0 )
+- [x] 📎 [Ver Evidencia](Recuperacion_EmersonChamba.pdf)
 
       
 <div align="center">
